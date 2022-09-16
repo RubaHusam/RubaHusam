@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **React , HTML , CSS , Java , JS ,TS**
 
-- 📫 How to reach me **Ruba.Husam.Khalil@gmail.com** && 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1viDq8aZ_5Pe7KAjNA0v219LFe9fZ7_ZE/view?usp=sharing](https://drive.google.com/file/d/1viDq8aZ_5Pe7KAjNA0v219LFe9fZ7_ZE/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm lovable and cute**
@@ -75,5 +74,7 @@
 <p >
 <a href="https://linkedin.com/in/ruba-khalil-32b908233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruba-khalil-32b908233" height="30" width="40" /></a>
 <a href="https://fb.com/rubahkhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubahkhalil" height="30" width="40" /></a>
+  <a href="Ruba.Husam.Khalil@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91129183/190631265-b2df8c18-10cd-4507-9653-47ab50c9e22b.png" alt="rubahkhalil" height="30" width="40" /></a>
+
 </p>
   </div>
