@@ -78,3 +78,14 @@
 
 </p>
   </div>
+
+
+<div>
+<h4>Snake eating my contribution graph</h1>
+<h1></h1>
+<div align="center">
+
+![snake gif](https://github.com/rubahusam/rubahusam/blob/output/github-contribution-grid-snake.gif)
+</div>
+
+</div>
