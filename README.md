@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , HTML , CSS , Java , JS ,TS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1viDq8aZ_5Pe7KAjNA0v219LFe9fZ7_ZE/view?usp=sharing](https://drive.google.com/file/d/1Gwf6dtk4e-JZ4gkNNCO-T45SkeTzaCwD/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1MgQd8Q3mmxG-OMW42zdzFTU0yBT7zFcK/view?usp=sharing
 
 - ⚡ Fun fact **I think I'm lovable and cute**
 
