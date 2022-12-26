@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , HTML , CSS , Java , JS ,TS**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1MgQd8Q3mmxG-OMW42zdzFTU0yBT7zFcK/view?usp=sharing
+- 📄 Know about my experiences https://bauniversity-my.sharepoint.com/personal/31801002016_std_bau_edu_jo/Documents/My%20Info/RubaKhalil_SE_Resume2023.pdf
 
 - ⚡ Fun fact **I think I'm lovable and cute**
 
