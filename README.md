@@ -6,13 +6,11 @@
   
 <div align="left">
 
-- 👯 I’m looking to collaborate on [Mujaddun Charitable Society](https://ar-ar.facebook.com/MujaddidunJo/)
+- 👯 I am a volunteer at [Mujaddun Charitable Society](https://ar-ar.facebook.com/MujaddidunJo/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RubaHusam?tab=repositories](https://github.com/RubaHusam?tab=repositories)
 
-- 💬 Ask me about **React , HTML , CSS , Java , JS ,TS**
-
-- 📄 Know about my experiences https://bauniversity-my.sharepoint.com/personal/31801002016_std_bau_edu_jo/Documents/My%20Info/RubaKhalil_SE_Resume2023.pdf
+- 💬 Ask me about **PHP, Laravel, GraphQL, React , HTML , CSS , Java , JS ,TS, REST API**
 
 - ⚡ Fun fact **I think I'm lovable and cute**
 
